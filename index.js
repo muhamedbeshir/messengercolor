@@ -25,7 +25,7 @@ contactBtn.addEventListener('click',()=>{
 
 
 var options = {
-    strings: ['Freelancer', 'Web Developer', 'Youtuber'],
+    strings: ['Freelancer', 'Web Developer', 'Media Buyer' , 'Social Media Speacialist'],
     typeSpeed: 100,
     backSpeed: 100,
     loop: true
